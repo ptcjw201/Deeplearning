@@ -16,4 +16,3 @@ UNet_segmenation_baseline (1).ipynb 파일은 UNet의 train, test과정이 담�
 
 
 
-영상 링크 : https://www.youtube.com/watch?v=njUZzM2gqbA
